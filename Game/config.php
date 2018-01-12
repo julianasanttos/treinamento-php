@@ -29,6 +29,8 @@
 
 
 
+=======
+>>>>>>> d15fc9c87cb0d633e057e211d669e080403da11f
 <?php
 /*
 1 - Crie um Formulário que Envie Dados para check.php
@@ -54,6 +56,11 @@ Dica:
 
   Mais detalhes em: https://www.w3schools.com/tags/att_input_value.asp
 
+<<<<<<< HEAD
 
 ?>
 
+=======
+  */
+?>
+>>>>>>> d15fc9c87cb0d633e057e211d669e080403da11f
